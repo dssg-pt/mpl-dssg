@@ -14,7 +14,7 @@ Under the `styles` folder, 3 style files (`.mplstyle`) can be found:
 ![dark_theme](assets/dssgpt_dark.png)
 - `template.mplstyle`: a generic theme template ready for customization (upon which the two styles above were based), included out of convenience.
 
-The theme expects the Raleway typeface, [available for download under an Open Font Licence on Google Fonts](https://fonts.google.com/specimen/Raleway). It will, however, gracefully fail and swith to the system's default non-serif font if Raleway is not present. 
+The theme expects the Raleway typeface, [available for download under an Open Font Licence on Google Fonts](https://fonts.google.com/specimen/Raleway). It will, however, gracefully fail and switch to the system's default non-serif font if Raleway is not present. 
 
 The file `visualize.py` includes the code to generate the visualizations above. Code is heavily adapted from Matplotlib's [Style sheets reference](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html) snippet. 
 
