@@ -22,17 +22,15 @@ The file `visualize.py` includes the code to generate the visualizations above. 
 
 ### Quick'n'dirty
 
-**TODO: Test, will it actually work from GitHub?**
-
 Dynamically load the theme (from GitHub, even) without a prior install: 
 
 ```Python
 
 # For the light version
-plt.style.use('PATH_TO_GITHUB_LIGHT') 
+plt.style.use('https://raw.githubusercontent.com/dssg-pt/mpl-dssg/main/styles/dssgpt.mplstyle') 
 
 # For the dark version
-plt.style.use('PATH_TO_GITHUB_DARK') 
+plt.style.use('https://raw.githubusercontent.com/dssg-pt/mpl-dssg/main/styles/dssgpt_dark.mplstyle') 
 
 # Do Matplotlib stuff
 
