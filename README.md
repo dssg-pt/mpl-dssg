@@ -2,7 +2,7 @@
 
 ## 🤔 Context
 
-A Matplotlib style based on [Data Science for Social Good Portugal](https://www.dssg.pt)'s brand, offered in both light and dark versions.
+    A Matplotlib style based on [Data Science for Social Good Portugal](https://www.dssg.pt)'s brand, offered in both light and dark versions.
 
 ## 🎨 Styles
 
